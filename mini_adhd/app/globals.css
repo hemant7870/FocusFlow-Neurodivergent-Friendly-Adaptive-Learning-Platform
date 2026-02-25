@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Premium Futuristic Theme Colors */
+  --primary: 19 182 236; /* Cyan #13b6ec */
+  --secondary: 168 85 247; /* Purple #a855f7 */
+  --accent: 236 72 153; /* Pink #ec4899 */
+  
+  --background-dark: 10 10 20; /* Deep Space Blue */
+  --background-light: 240 240 255; /* Ice White */
+  
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-bg: rgba(20, 20, 35, 0.6);
+}
+
+body {
+  background-color: rgb(var(--background-dark));
+  color: white; /* Default text color for dark mode first */
+  font-family: 'Inter', sans-serif;
+}
+
+/* Global Mesh Gradient Background */
+.mesh-bg {
+  background-color: rgb(var(--background-dark));
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(var(--primary), 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(var(--secondary), 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(var(--accent), 0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(var(--primary), 0.1) 0px, transparent 50%);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.mesh-gradient {
+  background: radial-gradient(at 0% 0%, rgba(19, 182, 236, 0.15) 0%, transparent 50%),
+              radial-gradient(at 100% 100%, rgba(168, 85, 247, 0.15) 0%, transparent 50%),
+              rgb(var(--background-dark));
+}
+
+/* Glassmorphism Utilities */
+.glass-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Neon Utilities */
+.neon-text {
+  text-shadow: 0 0 10px rgba(var(--primary), 0.5),
+               0 0 20px rgba(var(--primary), 0.3);
+}
+
+.neon-border {
+  border-color: rgba(var(--primary), 0.5);
+  box-shadow: 0 0 10px rgba(var(--primary), 0.2);
+}
+
+.neon-text-purple {
+  text-shadow: 0 0 10px rgba(var(--secondary), 0.5),
+               0 0 20px rgba(var(--secondary), 0.3);
+}

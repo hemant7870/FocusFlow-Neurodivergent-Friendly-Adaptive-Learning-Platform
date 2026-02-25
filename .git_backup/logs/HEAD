@@ -1,0 +1,65 @@
+0000000000000000000000000000000000000000 e71a6e637be6aa6b20b6534efa035d20bbb0fa70 abhigyan <abhigyanojha03@gmail.com> 1765731164 +0530	commit (initial): Initial commit
+e71a6e637be6aa6b20b6534efa035d20bbb0fa70 0000000000000000000000000000000000000000 abhigyan <abhigyanojha03@gmail.com> 1765731290 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 e71a6e637be6aa6b20b6534efa035d20bbb0fa70 abhigyan <abhigyanojha03@gmail.com> 1765731290 +0530	Branch: renamed refs/heads/master to refs/heads/main
+e71a6e637be6aa6b20b6534efa035d20bbb0fa70 08fef1111b42e3daaf01d6f2a75ef76867ce36bd abhigyan <abhigyanojha03@gmail.com> 1765732265 +0530	commit: Docs: Update README with professional documentation
+08fef1111b42e3daaf01d6f2a75ef76867ce36bd 3cce0bed16e9d5fd63858ff1c62f16ea18ad244f abhigyan <abhigyanojha03@gmail.com> 1765859566 +0530	commit: work is on
+3cce0bed16e9d5fd63858ff1c62f16ea18ad244f ef861e0f2386814201a0930e936d427b26739040 abhigyan <abhigyanojha03@gmail.com> 1765861019 +0530	commit (merge): Fix sign-in issue: Update DB connection logic, add error logging, and correct env vars
+ef861e0f2386814201a0930e936d427b26739040 2ea55926e585e75e21e7133ee14d19f0c7ce6b62 abhigyan <abhigyan.1si23is001@gmail.com> 1769787912 +0530	commit: Prepare for Railway deployment: Add dynamic exports to API routes, update Next.js config, add deployment files
+2ea55926e585e75e21e7133ee14d19f0c7ce6b62 eff7b59a7e4d0b52a27f9f2f7dd6fdb92e1b18e8 abhigyan <abhigyan.1si23is001@gmail.com> 1769788087 +0530	commit: Add deployment workflow and update README with comprehensive documentation
+eff7b59a7e4d0b52a27f9f2f7dd6fdb92e1b18e8 37a5450ffe8c583fd5209e79d80f4f033bbbb030 abhigyan <abhigyan.1si23is001@gmail.com> 1770912855 +0530	commit: added some study modules and refined level increase login
+37a5450ffe8c583fd5209e79d80f4f033bbbb030 2acf85aaa509683e9289b822224453d1cabc1c48 abhigyan <abhigyan.1si23is001@gmail.com> 1770913128 +0530	commit: some changes
+2acf85aaa509683e9289b822224453d1cabc1c48 60c5f7ac1ee867ebf63cc2e9f6cbf59f4e0a4eca abhigyan <abhigyan.1si23is001@gmail.com> 1770915019 +0530	commit: made the google login and signup funtional
+60c5f7ac1ee867ebf63cc2e9f6cbf59f4e0a4eca f430aec9cd6984f1c32621c41271ca8b9def55d3 abhigyan <abhigyan.1si23is001@gmail.com> 1770915554 +0530	commit: finished with google login thing
+f430aec9cd6984f1c32621c41271ca8b9def55d3 cd7503f2ca80b18fb8605223278d39644b252b31 abhigyan <abhigyan.1si23is001@gmail.com> 1770915931 +0530	commit: waste deleted the deployment guide
+cd7503f2ca80b18fb8605223278d39644b252b31 f85b7171c2fb55c2b57343fbe610557cda355a9e abhigyan <abhigyan.1si23is001@gmail.com> 1771420791 +0530	commit: feat(ui): define premium color palette
+f85b7171c2fb55c2b57343fbe610557cda355a9e 6b7ba1d5b7311652d5b24b4f5ff661b9961cb5e2 abhigyan <abhigyan.1si23is001@gmail.com> 1771420797 +0530	commit: config(tailwind): add custom colors and fonts
+6b7ba1d5b7311652d5b24b4f5ff661b9961cb5e2 8552bedbd8dda58ad97ca42b1b61d9a00a6a2f40 abhigyan <abhigyan.1si23is001@gmail.com> 1771420803 +0530	commit: feat(ui): add Button component
+8552bedbd8dda58ad97ca42b1b61d9a00a6a2f40 c7b17746beb55579b9a067668362f6b273d56010 abhigyan <abhigyan.1si23is001@gmail.com> 1771420807 +0530	commit: feat(ui): add Card component
+c7b17746beb55579b9a067668362f6b273d56010 75fe244980e5bdb39a4de9d89528c39400509563 abhigyan <abhigyan.1si23is001@gmail.com> 1771420812 +0530	commit: feat(ui): add ProgressBar component
+75fe244980e5bdb39a4de9d89528c39400509563 b11f3348523cf9190775bbc25661e41b3e818295 abhigyan <abhigyan.1si23is001@gmail.com> 1771420815 +0530	commit: refactor(page): upgrade assessment UI
+b11f3348523cf9190775bbc25661e41b3e818295 e72c66d133f2f4b100a4c833910e629808cd507d abhigyan <abhigyan.1si23is001@gmail.com> 1771420819 +0530	commit: feat(landing): modernize landing page
+e72c66d133f2f4b100a4c833910e629808cd507d c30c5edd238ca9de767e8867fba65d88a2515be0 abhigyan <abhigyan.1si23is001@gmail.com> 1771420824 +0530	commit: refactor(ui): add barrel file for UI components
+c30c5edd238ca9de767e8867fba65d88a2515be0 48422a56bb9dc26efe658e966acd138a8df25afe abhigyan <abhigyan.1si23is001@gmail.com> 1771420857 +0530	commit: docs: init CHANGELOG
+48422a56bb9dc26efe658e966acd138a8df25afe bafcd770118eab1be768e3d7dceb70f92566d16d abhigyan <abhigyan.1si23is001@gmail.com> 1771422677 +0530	commit: feat(dashboard): refactor layout with mesh gradient and glassmorphism
+bafcd770118eab1be768e3d7dceb70f92566d16d 8ff3d4cf708d87fef0609909aa8ef0cd0fbb597a abhigyan <abhigyan.1si23is001@gmail.com> 1771422713 +0530	commit: feat(dashboard): implement real-time attention gauge
+8ff3d4cf708d87fef0609909aa8ef0cd0fbb597a 4795854b7ecac249f27798f068879301ec075f45 abhigyan <abhigyan.1si23is001@gmail.com> 1771422886 +0530	commit: style(dashboard): refine status cards and quick actions
+4795854b7ecac249f27798f068879301ec075f45 8d2440f817a401655d2e95988df240e94bbcaee2 abhigyan <abhigyan.1si23is001@gmail.com> 1771423013 +0530	commit: feat(learn): upgrade learning hub with glassmorphic theme
+8d2440f817a401655d2e95988df240e94bbcaee2 aa85a3ed5376b8756976d5768a6e7c58f860bac5 abhigyan <abhigyan.1si23is001@gmail.com> 1771423044 +0530	commit: fix(learn): add missing Link import
+aa85a3ed5376b8756976d5768a6e7c58f860bac5 0a1e4902735b91c42c3d1f18373984768fe4cebe abhigyan <abhigyan.1si23is001@gmail.com> 1771423397 +0530	commit: fix(ui): remove redundant assessment header to resolve layout overflow
+0a1e4902735b91c42c3d1f18373984768fe4cebe 85685b398c657189beb2f52982a925773373b2e6 abhigyan <abhigyan.1si23is001@gmail.com> 1771423627 +0530	commit: feat(dashboard): restore ADHD screening result card
+85685b398c657189beb2f52982a925773373b2e6 40e469d99bc9b3e9a547ad90c01dc551be8517d6 abhigyan <abhigyan.1si23is001@gmail.com> 1771424659 +0530	commit: feat(ui): implement global status indicator and refactor tracking context
+40e469d99bc9b3e9a547ad90c01dc551be8517d6 d24ca5805cbdb1c7568cd846ee4181381ad594df abhigyan <abhigyan.1si23is001@gmail.com> 1771425225 +0530	commit: fix(layout): add EyeTrackerProvider to resolve context error
+d24ca5805cbdb1c7568cd846ee4181381ad594df bb018c162e86169b17e547a49d1e9691ea3908ef abhigyan <abhigyan.1si23is001@gmail.com> 1771426549 +0530	commit: feat(ui): refine global status visibility and refresh logic
+bb018c162e86169b17e547a49d1e9691ea3908ef 290ec6ca4bf5a32209f52cc868ae8fca2ecda6e6 abhigyan <abhigyan.1si23is001@gmail.com> 1771426647 +0530	commit: fix(ui): remove broken material icons from assessment footer
+290ec6ca4bf5a32209f52cc868ae8fca2ecda6e6 16fd2b330cf4be9ec9a1ddedfa3b3cf50bb68217 abhigyan <abhigyan.1si23is001@gmail.com> 1771428153 +0530	commit: feat(ui): implement global futuristic theme and upgrade gamified dashboard
+16fd2b330cf4be9ec9a1ddedfa3b3cf50bb68217 71c9f43442b1f5595083bfcf4f580c5241f02387 abhigyan <abhigyan.1si23is001@gmail.com> 1771428326 +0530	commit: fix: restore screening test page background
+71c9f43442b1f5595083bfcf4f580c5241f02387 0b5f22bc472ce4b5af079894fbfbb78635aa651e abhigyan <abhigyan.1si23is001@gmail.com> 1771502644 +0530	commit: style(landing): increase FocusFlow font size to 8xl
+0b5f22bc472ce4b5af079894fbfbb78635aa651e a01f916e0d96cbee2f7da7ce62f668c99def9a1a abhigyan <abhigyan.1si23is001@gmail.com> 1771502656 +0530	commit: feat(ui): hide global status on public pages and auth routes
+a01f916e0d96cbee2f7da7ce62f668c99def9a1a ef7cad36785e643b751ba2b0f9a28fb14c463257 abhigyan <abhigyan.1si23is001@gmail.com> 1771503016 +0530	commit: style(assessment): decrease question font size
+ef7cad36785e643b751ba2b0f9a28fb14c463257 9844eace5cc72714287129b61f99baed7e11a7f3 abhigyan <abhigyan.1si23is001@gmail.com> 1771503978 +0530	commit: feat(content-hub): upgrade ui to futuristic glassmorphic theme
+9844eace5cc72714287129b61f99baed7e11a7f3 6f5600cfb731b68ec96e169063f882970346b653 abhigyan <abhigyan.1si23is001@gmail.com> 1771504407 +0530	commit: feat(sidebar): upgrade ui to detailed glassmorphic design
+6f5600cfb731b68ec96e169063f882970346b653 21f7c1aa60e21ec5b1a958e33be1c0f91b19d0d4 abhigyan <abhigyan.1si23is001@gmail.com> 1771504618 +0530	commit: fix(sidebar): remove theme toggle icon
+21f7c1aa60e21ec5b1a958e33be1c0f91b19d0d4 be4492ad55fafefcee7fb5798423e3507f24d7ca abhigyan <abhigyan.1si23is001@gmail.com> 1771504923 +0530	commit: feat(sidebar): replace emojis with lucide icons
+be4492ad55fafefcee7fb5798423e3507f24d7ca 55c95f423ba1de9bc01557ee40251e4febac3fad abhigyan <abhigyan.1si23is001@gmail.com> 1771505184 +0530	commit: feat(realtime): upgrade ui to neon glassmorphic theme
+55c95f423ba1de9bc01557ee40251e4febac3fad 5c4d03d6021c0616722554444a3c934db4e965ef abhigyan <abhigyan.1si23is001@gmail.com> 1771505479 +0530	commit: fix(perf): throttle eyetracker and increase polling interval
+5c4d03d6021c0616722554444a3c934db4e965ef e29f0ae6c5c3d8b8d91a7e640167460388d81839 abhigyan <abhigyan.1si23is001@gmail.com> 1771505852 +0530	commit: fix: throttle faces state update to reduce rerenders
+e29f0ae6c5c3d8b8d91a7e640167460388d81839 01b614a7cf7655a9728a68fb919447676f8c30b2 abhigyan <abhigyan.1si23is001@gmail.com> 1771506096 +0530	commit: feat(auth): upgrade login and signup pages to futuristic glassmorphism
+01b614a7cf7655a9728a68fb919447676f8c30b2 58a9ed03a46c7f13e41ecf98bd898451e324dca4 abhigyan <abhigyan.1si23is001@gmail.com> 1771506443 +0530	commit: fix(perf): remove duplicate EyeTrackerProvider and downscale video processing
+58a9ed03a46c7f13e41ecf98bd898451e324dca4 e04e599d93f70f7fc5dacfc77bdc715abae187a9 abhigyan <abhigyan.1si23is001@gmail.com> 1771506520 +0530	commit: fix(perf): revert eye tracker to 640p 10fps per user request
+e04e599d93f70f7fc5dacfc77bdc715abae187a9 f8925c94d4dc999fef65f63fb0f3c9cbc40d11f1 abhigyan <abhigyan.1si23is001@gmail.com> 1771506676 +0530	commit: fix(perf): remove background tab pause check per user request
+f8925c94d4dc999fef65f63fb0f3c9cbc40d11f1 132c78402ecd2b76912ab4fd5b7652b4eccafe84 abhigyan <abhigyan.1si23is001@gmail.com> 1771600428 +0530	commit: feat: implement role-based cookie setting on login
+132c78402ecd2b76912ab4fd5b7652b4eccafe84 5e63cdc5c18d23293f2dfc54a4eed7e7b4ade13b abhigyan <abhigyan.1si23is001@gmail.com> 1771600436 +0530	commit: feat: setup role-based middleware for path protection
+5e63cdc5c18d23293f2dfc54a4eed7e7b4ade13b 8f1a30e441affcc9cd287cd2ff73fffcd1f2971a abhigyan <abhigyan.1si23is001@gmail.com> 1771600440 +0530	commit: feat: add educator students analytics API
+8f1a30e441affcc9cd287cd2ff73fffcd1f2971a 7c2aa95d230cf64e790e3d48ede43b5f02e9804e abhigyan <abhigyan.1si23is001@gmail.com> 1771600444 +0530	commit: feat: implement Educator Dashboard with student metrics
+7c2aa95d230cf64e790e3d48ede43b5f02e9804e 20fa93f04dc644b59756a0100986b6fb765e35b5 abhigyan <abhigyan.1si23is001@gmail.com> 1771600448 +0530	commit: feat: implement admin system-wide statistics API
+20fa93f04dc644b59756a0100986b6fb765e35b5 362bda8267b1ce66137bfe24073edf48ec5d8989 abhigyan <abhigyan.1si23is001@gmail.com> 1771600489 +0530	commit: feat: add Admin Dashboard UI for platform monitoring
+362bda8267b1ce66137bfe24073edf48ec5d8989 43fc169a9bdc4b1f723487a5669be4f4c557a9de abhigyan <abhigyan.1si23is001@gmail.com> 1771600493 +0530	commit: feat: implement dynamic sidebar based on user role
+43fc169a9bdc4b1f723487a5669be4f4c557a9de 1979e396cd0eb6f6f0339031786e1610de98bbcb abhigyan <abhigyan.1si23is001@gmail.com> 1771600520 +0530	commit: feat: create dedicated Educator login portal
+1979e396cd0eb6f6f0339031786e1610de98bbcb 61654d9beaf4646e6180969e127657cac3281586 abhigyan <abhigyan.1si23is001@gmail.com> 1771600524 +0530	commit: feat: create dedicated Admin login portal
+61654d9beaf4646e6180969e127657cac3281586 73e086ba6678f8c80db3c60b02ce2c213dd4c791 abhigyan <abhigyan.1si23is001@gmail.com> 1771600530 +0530	commit: ui: add portal access links to the main login page
+73e086ba6678f8c80db3c60b02ce2c213dd4c791 b0229a7b4f0e3c4205875d1487028e52ef1b1f1c abhigyan <abhigyan.1si23is001@gmail.com> 1771600534 +0530	commit: ui: add portal access links to the main signup page
+b0229a7b4f0e3c4205875d1487028e52ef1b1f1c cd4cafcee1c9fba0281c5f6dca76f9f0e75da4f0 abhigyan <abhigyan.1si23is001@gmail.com> 1771600538 +0530	commit: fix: ensure role cookies are synchronized on registration
+cd4cafcee1c9fba0281c5f6dca76f9f0e75da4f0 a2271fddd3e4ad261a34683f0746a443dc0f1d25 abhigyan <abhigyan.1si23is001@gmail.com> 1771600558 +0530	commit: fix: hide focus tracker on all authentication pages
+a2271fddd3e4ad261a34683f0746a443dc0f1d25 57b6c33c82a5a7f60c0ade780a43a60bd1a21e78 abhigyan <abhigyan.1si23is001@gmail.com> 1771600562 +0530	commit: chore: add db utility and seeding scripts for testing
+57b6c33c82a5a7f60c0ade780a43a60bd1a21e78 5d600ad60f59f7adb9540b1f151394d233b5d3a6 abhigyan <abhigyan.1si23is001@gmail.com> 1771600674 +0530	commit: feat: add Admin role to User model and schema
+5d600ad60f59f7adb9540b1f151394d233b5d3a6 42e28e7308acb8ac1c2c115fc46761a00b6e9b9e abhigyan <abhigyan.1si23is001@gmail.com> 1772023248 +0530	commit: Initial push to FocusFlow repository
