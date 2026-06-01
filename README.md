@@ -91,7 +91,3 @@ We welcome contributions from the community, especially those with expertise in 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ for better learning.</i>
-</p>
