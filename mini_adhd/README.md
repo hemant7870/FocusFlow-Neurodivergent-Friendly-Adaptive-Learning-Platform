@@ -212,7 +212,3 @@ This project is licensed under the MIT License.
 - Next.js team for the amazing framework
 - MongoDB for database solution
 - Socket.io for real-time communication
-
----
-
-Made with ❤️ for better ADHD management and learning
